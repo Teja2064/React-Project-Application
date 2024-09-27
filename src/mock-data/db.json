@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "tejeswar@gmail.com",
+      "name": "Tejeswar yadav anajmeti",
+      "phone": "7748318844"
+    },
+    {
+      "id": "bradpitt@gmail.com",
+      "name": "Brad Pitt",
+      "phone": "8876555434"
+    },
+    {
+      "id": "downey@gmail.com",
+      "name": "Rover Downey Jr",
+      "phone": "8786543784"
+    },
+    {
+      "id": "chris@gmail.com",
+      "name": "Chris Hemsworth",
+      "phone": "7743456562"
+    }
+  ]
+}
